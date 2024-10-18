@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #0F2439; /* Aggie Blue */
+    color: #FFFFFF; /* White */
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    color: #FFFFFF; /* White */
+    text-decoration: none;
+}
+
+main {
+    padding: 2rem;
+}
+
+footer {
+    background-color: #0F2439; /* Aggie Blue */
+    color: #FFFFFF; /* White */
+    text-align: center;
+    padding: 1rem 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+/* Add some color and pop */
+h1.name {
+    color: #F6BD17; /* Sunflower */
+}
+
+h2, h3 {
+    color: #333;
+}
+
+ul {
+    background-color: #E1EAF9; /* Light Blue */
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+ul li {
+    margin-bottom: 0.5rem;
+}
+
+a:hover {
+    color: #F6BD17; /* Sunflower */
+}
